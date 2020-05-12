@@ -4,6 +4,8 @@ A new Flutter application.
 
 Here you can select a name from a group of names for your StartUp.
 
+![img added](https://github.com/Sachindrck/Starter_name_app/blob/master/startup-namer-part-1-9db323d8383da0000c8be4e1a12e3d9ff6ab3a0eb8b86984451b329f1f3b4196.gif?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
