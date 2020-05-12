@@ -1,6 +1,7 @@
 # Startername
 
 A new Flutter application.
+Here you can select a name from a group of names for your StartUp.
 
 ## Getting Started
 
